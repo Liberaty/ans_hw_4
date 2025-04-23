@@ -27,16 +27,19 @@
    ```
 
 ***Ответ:***
+
 ![4.1.png](https://github.com/Liberaty/ans_hw_4/blob/main/img/4.1.png?raw=true)
 
 2. При помощи `ansible-galaxy` скачайте себе эту роль.
 
 ***Ответ:***
+
 ![4.2.png](https://github.com/Liberaty/ans_hw_4/blob/main/img/4.2.png?raw=true)
 
 3. Создайте новый каталог с ролью при помощи `ansible-galaxy role init vector-role`.
 
 ***Ответ:***
+
 ![4.3.png](https://github.com/Liberaty/ans_hw_4/blob/main/img/4.3.png?raw=true)
 
 4. На основе tasks из старого playbook заполните новую role. Разнесите переменные между `vars` и `default`. 
